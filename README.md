@@ -1,1 +1,1 @@
-# Simple blog used NextJs and Sanity
+# Simple blog used NextJs, TypeScript and Sanity
